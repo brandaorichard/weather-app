@@ -78,7 +78,7 @@ const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="
 
 <p align="center">Veja abaixo uma prévia do funcionamento do Weather App:</p>
 <p align="center">
-    <img src="images/demo.png" alt="Demonstração do Weather App" width="600">
+    <img src="images/example0.png" alt="Demonstração do Weather App" width="600">
 </p>
 
 <h2 align="center">📜 Licença</h2>
